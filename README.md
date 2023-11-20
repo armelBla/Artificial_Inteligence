@@ -1,2 +1,2 @@
 # Artificial_Inteligence
-Comprehensive AI Exploration with Python
+Référentiel dédié à l'IA : Explorez le machine learning et le deep learning avec Python. Plongez dans le futur de l'intelligence artificielle.
